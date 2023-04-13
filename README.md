@@ -13,8 +13,8 @@ Une fois l'application installée et lancée, vous pouvez parcourir une liste de
 
 # Caractéristiques
 Cette application présente les caractéristiques suivantes :
-    -Afficher une liste de Pokemon.
-    -Afficher des informations détaillées sur chaque Pokemon comme le type, la faiblesse, l'évolution.
+    - Afficher une liste de Pokemon.
+    - Afficher des informations détaillées sur chaque Pokemon comme le type, la faiblesse, l'évolution.
  
  # Lien API
  https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json
