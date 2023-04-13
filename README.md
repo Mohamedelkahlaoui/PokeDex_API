@@ -3,7 +3,8 @@ Pokedex avec API
 # PokedexApi
 Cette application est développée pour afficher des informations sur différents Pokemon en utilisant l'API Pokemon. Elle est développée avec Java.
 
-
+Installation
+Pour utiliser cette application, vous devez installer Android Studio sur votre ordinateur. Une fois Android Studio installé, vous pouvez cloner ce dépôt (Run git  https://github.com/Mohamedelkahlaoui/PokeDex_API.git) et ouvrir le projet dans Android Studio. Vous pouvez ensuite exécuter l'application sur un émulateur Android ou un appareil physique.
 
 
 #Utilisation
