@@ -2,7 +2,7 @@
 
 ELKAHLAOUI MOHAMED G3
 
-# PokedexApi
+# Description
 Cette application est développée pour afficher des informations sur différents Pokemon en utilisant l'API Pokemon. Elle est développée avec Java,et j'utilise Retrofit.
 
 # Installation
